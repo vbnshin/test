@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 ねこ
+=======
+iiiiineko
+:wq
+
+すごい
+>>>>>>> newworld
 aaaテストだよ
