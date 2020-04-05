@@ -1,13 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 ねこ
-=======
-iiiiineko
-:wq
-
-すごい
->>>>>>> newworld
-=======
-ねこ
->>>>>>> d3e0df65d5b73c12b2998a06e2c332e406d2aba9
 aaaテストだよ
